@@ -1,0 +1,58 @@
+main{
+    border: 1px solid red ;
+    height: 100px;
+    width: 1110px;
+    margin: auto;   
+}
+header{
+    border: 1px solid black;
+    height: 100px;
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(158,153,153);
+}
+nav{
+    border: 1px solid black;
+    height: 50px;
+    width: 1110px;
+    margin: auto;
+    background-color: black;
+    color: white;
+}
+footer{
+    border: 1px solid blue;
+    height: 50px;
+    width: 1110px;
+    margin: auto;
+}
+section{
+    border: 1px solid blue;
+    height: 290px ;
+    width: 1100px;
+    margin: auto;
+    padding: 5px;
+}
+aside{
+    border: 1px solid blue;
+    height: 290px;
+    width: 400px;
+    float: left;
+}
+article{
+    border: 1px solid black;
+    height: 145px;
+    width: 695px;
+    float: left ;
+}
+ul li{
+    border: 1px solid green;
+    height: auto;
+    width: 120px;
+    display: inline-block;
+
+}
+header img{
+    height: 95px;
+    width: 95px;
+}
